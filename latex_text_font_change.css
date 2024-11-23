@@ -1,0 +1,5 @@
+/*LaTex 수식에서 한글 폰트 변경*/
+mjx-utext{
+    font-family: "AppleSDGothicNeoM00" !important; /*본인이 원하는 폰트를 AppleSDGothicNeoM00 대신 입력하면 된다.*/
+    font-size: 90%;
+}
